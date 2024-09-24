@@ -6,3 +6,6 @@ leur quotient, ainsi que le reste.
 4. Ecrire un programme qui lit des entiers au clavier et les sauvegarde dans un fichier. On prévoira
 un caractère d’échappement pour mettre fin à la saisie au clavier.
 5. Ecrire un programme qui lit le contenu d’un fichier et affiche son contenu à l’écran.
+
+6. affiche les tables de multiplications jusqua 12x12 sur trois colones
+7. fibonacci 
